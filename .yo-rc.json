@@ -1,0 +1,8 @@
+{
+  "generator-columbia-angular": {
+    "filters": {
+      "grunt": true,
+      "sass": true
+    }
+  }
+}
